@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cryptospider
-- 👀 I’m interested in web application security, mobile application security, blockchain, cryptography, reverse engineering, malware analysis, CTF
-- 🌱 I’m currently learning blockchain, cryptography, application security
+- 👀 I’m interested in web application security, mobile application security, cloud security, blockchain, cryptography, reverse engineering, malware analysis, CTF.
 - 💞️ I’m looking to collaborate on projects relating to security.
 - 📫 How to reach me twitter @cryptospider00
 
