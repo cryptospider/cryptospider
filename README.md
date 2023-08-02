@@ -5,7 +5,8 @@
     - Cloud security 
     - Blockchain 
     - Cryptography 
-    - Reverse engineering & Malware analysis
+    - Reverse engineering
+    - Malware analysis
 - 💞️ I’m looking to collaborate on projects relating to security.
 - 📫 How to reach me twitter @cryptospider00
 
